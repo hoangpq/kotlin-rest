@@ -1,6 +1,6 @@
-package odoo.controllers
+package rest.controllers
 
-import odoo.repositories.ProductRepository
+import rest.repositories.ProductRepository
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.beans.factory.annotation.Autowired

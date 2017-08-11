@@ -1,4 +1,4 @@
-package odoo.entities
+package rest.entities
 
 import javax.persistence.*
 

@@ -1,4 +1,4 @@
-package odoo
+package rest
 
 import org.slf4j.LoggerFactory
 import org.springframework.boot.SpringApplication
